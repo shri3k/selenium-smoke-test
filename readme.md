@@ -1,0 +1,8 @@
+# Description
+PoC of smoke testing
+
+# Usage:
+- Install necessary browser drivers from [here](https://www.npmjs.com/package/selenium-webdriver) - this PoC uses 'Firefox' and the driver for that would be [here](https://github.com/mozilla/geckodriver/releases/)
+- Have the browser driver be reached by PATH
+- Edit the path in the `index.js`
+- `node index.js`
