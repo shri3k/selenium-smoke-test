@@ -2,7 +2,7 @@
 PoC of smoke testing
 
 # Reuirement
-- Node
+- [Node](https://nodejs.org/dist/v8.1.2/node-v8.1.2.pkg)
 - [browser drivers](https://www.npmjs.com/package/selenium-webdriver)
 # Usage:
 - Install necessary browser drivers from [here](https://www.npmjs.com/package/selenium-webdriver) - this PoC uses 'Firefox' and the driver for that would be [here](https://github.com/mozilla/geckodriver/releases/)
